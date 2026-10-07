@@ -4,11 +4,10 @@ Hello, I am Raghav Senthilkumar, a CS student @ UW-Madison interested in Distrib
 
 ### Currently
 - Studying CS @ UW-Madison
-- Researching Reliability issues in Large Scale Distributed Systems @ UVA
-- Working on Projects in applied AI Systems
-- Looking to Contribute to Open Source Projects
+- Researching Reliability issues in large-scale distributed systems @ UVA
+- Researching distributed protocols and system correctness @ NYU
 - Exploring distributed systems and ML infra
 
 ### Reach me
-- 📫 rsenthilkum6@wisc.edu
+- 📫 raghav.senthilkumar@wisc.edu
 
